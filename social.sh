@@ -23,6 +23,7 @@
 #
 
 # choose your own logfile if you want
+# perhaps in a shared/dropbox drive
 LOGFILE_BASE=~/.friendlog/
 TEMPFILE=~/.friendtmp
 
